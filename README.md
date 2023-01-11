@@ -2,9 +2,9 @@
 
 These are **UNOFFICIAL** portable builds of Obsidian for Windows.
 
-You can find the latest build here: [Obsidian Portable 1.1.9](https://github.com/alangrainger/obsidian-portable/releases/download/1.1.9/Obsidian.Portable.1.1.9.exe)
+Download the latest build: [Obsidian Portable 1.1.9](https://github.com/alangrainger/obsidian-portable/releases/download/1.1.9/Obsidian.Portable.1.1.9.exe)
 
-And you can find all builds here: [All builds](https://github.com/alangrainger/obsidian-portable/releases)
+You can find all builds here: [All builds](https://github.com/alangrainger/obsidian-portable/releases)
 
 ---
 
