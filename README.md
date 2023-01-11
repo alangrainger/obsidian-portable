@@ -1,6 +1,6 @@
 # Obsidian Portable
 
-These are **unofficial** portable builds of Obsidian for Windows.
+These are **UNOFFICIAL** portable builds of Obsidian for Windows.
 
 You can find the latest build here: [Latest build](https://github.com/alangrainger/obsidian-portable/releases/latest)
 
@@ -10,7 +10,7 @@ And you can find all builds here: [All builds](https://github.com/alangrainger/o
 
 ## Instructions to do it yourself
 
-If you don't want to trust an internet stranger, you can create your own portable build of Obsidian in about 5 minutes:
+If you don't want to trust an internet stranger, you can create your own portable build of Obsidian in about 5 minutes.
 
 1. Download Enigma Virtual Box from [https://enigmaprotector.com/en/downloads.html](https://enigmaprotector.com/en/downloads.html) and install it.
 
