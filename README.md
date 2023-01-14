@@ -12,6 +12,8 @@ You can find all builds here: [All builds](https://github.com/alangrainger/obsid
 
 If you don't want to trust an internet stranger, you can create your own portable build of Obsidian in about 5 minutes.
 
+You must already have Obsidian installed to create a portable version of it.
+
 1. Download Enigma Virtual Box from [https://enigmaprotector.com/en/downloads.html](https://enigmaprotector.com/en/downloads.html) and install it.
 
 2. Run the app and it will look like this:
