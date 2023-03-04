@@ -4,9 +4,9 @@ These are **UNOFFICIAL** portable builds of Obsidian for Windows.
 
 **NOTE:** This will not allow you to run multiple versions of Obsidian alongside each other on the same machine. All Obsidian instances, whether installed or portable will share the same `%AppData%` folder, and can therefore conflict with each other. This is designed for use by people who cannot or do not want to install the normal Obsidian on their machine.
 
-Download the latest build: [Obsidian Portable 1.1.9](https://github.com/alangrainger/obsidian-portable/releases/download/1.1.9/Obsidian.Portable.1.1.9.exe)
+[Download the latest release](https://github.com/alangrainger/obsidian-portable/releases/latest)
 
-You can find all builds here: [All builds](https://github.com/alangrainger/obsidian-portable/releases)
+[View all releases](https://github.com/alangrainger/obsidian-portable/releases)
 
 ---
 
